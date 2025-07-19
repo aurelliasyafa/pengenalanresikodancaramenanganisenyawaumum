@@ -705,7 +705,7 @@ pg = [
     {"soal": "Fungsi MSDS adalah...", "opsi": ["Label botol", "Panduan eksperimen", "Informasi bahan kimia", "Lembar nilai"], "jawaban": "Informasi bahan kimia"},
     {"soal": "Senyawa Etanol termasuk...", "opsi": ["Asam", "Basa", "Gas", "Pelarut organik"], "jawaban": "Pelarut organik"},
     {"soal": "Bahaya utama Cl2 adalah...", "opsi": ["Inflamasi kulit", "Bau harum", "Toksik", "Flu"], "jawaban": "Toksik"},
-    {"soal": "Metanol jika tertelan dapat menyebabkan...", "opsi": ["Sakit perut", "Buta", "Pilek", "Demam"], "jawaban": "Buta"},
+    {"soal": "Apa gas beracun yang tidak berwarna dan tidak berbau, sering muncul akibat pembakaran tidak sempurna...", "opsi": ["karbondioksida (CO2)", "karbonmonoksida (CO)", "hidrogen sulfida (H2S)", "nitrogen dioksida (NO2)"], "jawaban": "karbonmonoksida (CO)"},
     {"soal": "NaOH sebaiknya tidak disimpan dekat dengan...", "opsi": ["Asam", "Air", "Alkohol", "Besi"], "jawaban": "Asam"},
 ]
 
